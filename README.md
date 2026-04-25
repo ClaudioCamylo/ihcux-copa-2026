@@ -1,7 +1,7 @@
 # CopaNaMão - Lista XIII
 
 ## Identificação
-Nome: Claudio Martins Camilo  
+Nome: Cláudio Martins Camilo  
 Curso: Análise e Desenvolvimento de Sistemas  
 Disciplina: Interação Humano Computador e UX  
 Professor: Daniel Henrique Matos de Paiva
